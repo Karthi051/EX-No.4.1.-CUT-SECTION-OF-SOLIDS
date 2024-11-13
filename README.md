@@ -4,7 +4,7 @@
 ## AIM
 To create the solid model from given drawing and section the solid model
 
-## REQUIREMENTS: 
+## REQUIREMENTS:
 1. Autodesk fusion 360
 2. Windows 10
 3.16 GB of RAM (integrated graphics recommend 1 GB or more)
